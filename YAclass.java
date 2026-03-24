@@ -5,3 +5,10 @@ public class YAclass{
     }
 }
 
+
+public class YAAclass{
+    public static String yaaFunc(){
+        return("Yet Another Another Func");
+    }
+}
+
