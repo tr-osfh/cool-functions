@@ -10,6 +10,6 @@ public class YAAclass{
 }
 public class YAAAclass{
     public static String yaaaFunc(){
-        return("Yet Another Another Another Func");
+        return("Hello world");
     }
 }
